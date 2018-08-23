@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    background-image: url(./images/Large-BG-Pattern.png);
+    background-repeat: repeat-y;
+    
+}
+
+.sec-1{
+    padding: 0
+}
+
+.award-winner {
+    color: #17a2b8;
+    font-size: 30px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#normal-is-boring {
+    width: 100%;
+    margin: auto;
+}
+
+#addy-awards {
+    width: 100%;
+    margin: auto;
+    height: 100%
+}
+
+#weirdos-photos {
+    width: 100%;
+    margin: auto;
+    padding-top: 2em
+}
+
+#bta-logo {
+    position: absolute;
+    top: -5em;
+    left: -2em;
+    width: 45%
+}
+
+#addy-logo {
+    position: absolute;
+    bottom: -8em;
+    right: -7em;
+    width: 45%
+}
+
+.addyaward-row {
+    position: relative;
+    margin-top: 10em;
+    margin-bottom: 5em;
+    padding-bottom: 2em
+}
+
+.headline-2{
+    color: #17a2b8;
+    font-size: 30px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.headline-3{
+    color:white;
+    font-size: 20px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+input {
+    width: 100%;
+    text-align: center
+}
+
+.form {
+    padding-bottom: 10em
+}
+
+.signup-button{
+    color:white;
+    background-color: #17a2b8;
+    border-color: #17a2b8
+}
+.buttonspace{
+    padding-bottom: 1em
+}
+
+@media only screen and (max-width: 991px){
+    
+    #bta-logo {
+        position: absolute;
+        top: -1.75em;
+        left: 0.5em;
+        width: 45%
+    }
+
+
+    #addy-logo {
+        position: absolute;
+        bottom: -2em;
+        right: 0.5em;
+        width: 45%
+    }
+
+    .addyaward-row {
+        margin-top: 6em
+    }
+
+    #weirdos-photos {
+        width: 100%;
+        margin: auto;
+        padding-top: 4em
+    }
+}
+
+@media only screen and (min-width: 991px){
+
+    .award-winner, .headline-2 {
+        font-size: 60px
+    }
+
+    .headline-3 {
+        font-size: 30px
+    }
+
+    .sec-3 {
+        margin-top: 7em
+    }
+    #weirdos-photos {
+        width: 100%;
+        margin: auto;
+        padding-top: 4em
+    }
+}
