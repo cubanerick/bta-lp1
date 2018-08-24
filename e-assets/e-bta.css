@@ -10,12 +10,12 @@ body {
 }
 
 .award-winner {
-    color: #17a2b8;
+    color: #2ba2dc;
     font-size: 30px;
     width: 100%;
     margin: auto;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Helvetica, Arial, sans-serif
 }
 
 #normal-is-boring {
@@ -57,12 +57,12 @@ body {
 }
 
 .headline-2{
-    color: #17a2b8;
+    color: #2ba2dc;
     font-size: 30px;
     width: 100%;
     margin: auto;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Helvetica, Arial, sans-serif
 }
 
 .headline-3{
@@ -71,7 +71,7 @@ body {
     width: 100%;
     margin: auto;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Helvetica, Arial, sans-serif
 }
 
 input {
@@ -85,8 +85,8 @@ input {
 
 .signup-button{
     color:white;
-    background-color: #17a2b8;
-    border-color: #17a2b8
+    background-color: #2ba2dc;
+    border-color: #2ba2dc
 }
 .buttonspace{
     padding-bottom: 1em
